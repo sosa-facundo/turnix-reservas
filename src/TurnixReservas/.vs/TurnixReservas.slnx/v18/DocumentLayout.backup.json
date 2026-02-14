@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Repositorios\\turnix-reservas\\src\\TurnixReservas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{69A23611-0A77-4027-BBA2-3209C1AF818B}|WinForms\\WinForms.csproj|c:\\repositorios\\turnix-reservas\\src\\turnixreservas\\winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A23611-0A77-4027-BBA2-3209C1AF818B}|WinForms\\WinForms.csproj|solutionrelative:winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{69A23611-0A77-4027-BBA2-3209C1AF818B}|WinForms\\WinForms.csproj|c:\\repositorios\\turnix-reservas\\src\\turnixreservas\\winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{69A23611-0A77-4027-BBA2-3209C1AF818B}|WinForms\\WinForms.csproj|solutionrelative:winforms\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3C78396-C492-40BF-9C12-F873F7CF81D8}|Dominio\\Dominio.csproj|c:\\repositorios\\turnix-reservas\\src\\turnixreservas\\dominio\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3C78396-C492-40BF-9C12-F873F7CF81D8}|Dominio\\Dominio.csproj|solutionrelative:dominio\\turno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +22,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Repositorios\\turnix-reservas\\src\\TurnixReservas\\WinForms\\Form1.cs",
               "RelativeDocumentMoniker": "WinForms\\Form1.cs",
               "ToolTip": "C:\\Repositorios\\turnix-reservas\\src\\TurnixReservas\\WinForms\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "WinForms\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-14T03:48:59.799Z",
+              "WhenOpened": "2026-02-14T04:13:01.224Z",
               "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Repositorios\\turnix-reservas\\src\\TurnixReservas\\WinForms\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForms\\Form1.cs",
+              "ToolTip": "C:\\Repositorios\\turnix-reservas\\src\\TurnixReservas\\WinForms\\Form1.cs",
+              "RelativeToolTip": "WinForms\\Form1.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:12:46.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Turno.cs",
+              "DocumentMoniker": "C:\\Repositorios\\turnix-reservas\\src\\TurnixReservas\\Dominio\\Turno.cs",
+              "RelativeDocumentMoniker": "Dominio\\Turno.cs",
+              "ToolTip": "C:\\Repositorios\\turnix-reservas\\src\\TurnixReservas\\Dominio\\Turno.cs",
+              "RelativeToolTip": "Dominio\\Turno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T03:58:35.887Z",
+              "EditorCaption": ""
             }
           ]
         }
