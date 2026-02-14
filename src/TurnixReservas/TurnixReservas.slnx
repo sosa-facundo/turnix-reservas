@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="WinForms/WinForms.csproj" />
+  <Project Path="Dominio/Dominio.csproj" Id="d3c78396-c492-40bf-9c12-f873f7cf81d8" />
+  <Project Path="WinForms/WinForms.csproj" Id="69a23611-0a77-4027-bba2-3209c1af818b" />
 </Solution>
